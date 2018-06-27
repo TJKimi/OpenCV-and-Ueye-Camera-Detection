@@ -1,0 +1,3 @@
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\obj\Debug\SimpleLive.uEye_DotNet_Simple_Live.resources
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\obj\Debug\uEye_DotNet_SimpleLive.Resources.resources
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\obj\Debug\uEye_DotNet_SimpleLive.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="uEye_DotNet_SimpleLive">
+</Property><Property Name="Solution File" Value="C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\uEye_DotNet_SimpleLive.sln">
+</Property><Property Name="Date" Value="Monday, July 11, 2016">
+</Property><Property Name="Time" Value="15:28:34 PM">
+</Property></Properties><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="uEye_DotNet_SimpleLive.csproj" Description="Project file successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\uEye_DotNet_SimpleLive.csproj">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="Form1.cs" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="Program.cs" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\Program.cs">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="Resources.Designer.cs" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="Settings.Designer.cs" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="Settings.settings" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\Settings.settings">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="uEye_DotNet_SimpleLive.ico" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\uEye_DotNet_SimpleLive.ico">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="Form1.resx" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="Resources.resx" Description="File successfully backed up as C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\Backup - Copy\Backup1\Resources.resx">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="uEye_DotNet_SimpleLive.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="uEye_DotNet_SimpleLive" Source="uEye_DotNet_SimpleLive.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="uEye_DotNet_SimpleLive" Source="uEye_DotNet_SimpleLive.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

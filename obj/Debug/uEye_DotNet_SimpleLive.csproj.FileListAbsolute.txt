@@ -1,0 +1,63 @@
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\obj\Debug\uEye_DotNet_SimpleLive.csprojResolveAssemblyReference.cache
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\obj\Debug\SimpleLive.uEye_DotNet_Simple_Live.resources
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\obj\Debug\uEye_DotNet_SimpleLive.Resources.resources
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\obj\Debug\uEye_DotNet_SimpleLive.csproj.GenerateResource.Cache
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\uEye_DotNet_SimpleLive.exe.config
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\uEye_DotNet_SimpleLive.exe
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\uEye_DotNet_SimpleLive.pdb
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\AForge.Imaging.dll
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\uEyeDotNet.dll
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\AForge.dll
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\AForge.Math.dll
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\AForge.Imaging.pdb
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\AForge.Imaging.xml
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\AForge.pdb
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\AForge.xml
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\AForge.Math.pdb
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\bin\Debug\AForge.Math.xml
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\obj\Debug\uEye_DotNet_SimpleLive.exe
+C:\Program Files\IDS\uEye\Develop\Source\uEye_DotNet_C#_SimpleLive\obj\Debug\uEye_DotNet_SimpleLive.pdb
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\uEye_DotNet_SimpleLive.exe.config
+C:\Documents and Settings\Systems\Desktop\testforids\obj\Debug\uEye_DotNet_SimpleLive.exe
+C:\Documents and Settings\Systems\Desktop\testforids\obj\Debug\uEye_DotNet_SimpleLive.pdb
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\AForge.Imaging.dll
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\AForge.dll
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\AForge.Math.dll
+C:\Documents and Settings\Systems\Desktop\testforids\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Systems\Desktop\testforids\obj\Debug\SimpleLive.uEye_DotNet_Simple_Live.resources
+C:\Documents and Settings\Systems\Desktop\testforids\obj\Debug\uEye_DotNet_SimpleLive.Resources.resources
+C:\Documents and Settings\Systems\Desktop\testforids\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Systems\Desktop\testforids\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Systems\Desktop\testforids\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\uEye_DotNet_SimpleLive.exe
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\uEye_DotNet_SimpleLive.pdb
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\AForge.xml
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\AForge.Imaging.Formats.dll
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\AForge.Imaging.Formats.xml
+C:\Documents and Settings\Systems\Desktop\testforids\bin\Debug\AForge.Controls.dll
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\uEye_DotNet_SimpleLive.exe.config
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\obj\Debug\uEye_DotNet_SimpleLive.exe
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\obj\Debug\uEye_DotNet_SimpleLive.pdb
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\uEye_DotNet_SimpleLive.exe
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\uEye_DotNet_SimpleLive.pdb
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.Controls.dll
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.dll
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.Imaging.dll
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.Imaging.Formats.dll
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.Math.dll
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.xml
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.Imaging.pdb
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.Imaging.xml
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.Imaging.Formats.xml
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\bin\Debug\AForge.Math.xml
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\obj\Debug\SimpleLive.uEye_DotNet_Simple_Live.resources
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\obj\Debug\uEye_DotNet_SimpleLive.Resources.resources
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Systems\Desktop\Displacement Finder 2.0\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\tjkim\Desktop\Displacement Finder 2.0\bin\Debug\uEye_DotNet_SimpleLive.exe.config
+C:\Users\tjkim\Desktop\Displacement Finder 2.0\obj\Debug\uEye_DotNet_SimpleLive.exe
+C:\Users\tjkim\Desktop\Displacement Finder 2.0\obj\Debug\uEye_DotNet_SimpleLive.pdb
